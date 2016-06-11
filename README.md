@@ -1,4 +1,4 @@
 # probe_002-hw
 hello-world
 
-prvic spremenil tocno opolodne.
+prvic spremenil tocno opoldne.
